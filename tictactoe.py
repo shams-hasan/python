@@ -29,7 +29,7 @@ def player_marker():    # this method will define the player's marker (X or O).
         return ('O', 'X')
 
 
-def place_marker(board, marker, position):   # provided the board, choose the index you'd like to place your marker at
+def place_marker(board, marker, position):   # provided the board, choose the index you'd like to place your marker at.
     board[position] = marker
 
 
@@ -43,7 +43,7 @@ def who_goes_first(): # helps determine the order of which player goes first.
     return
 
 
-def win_check(board, mark):
+def win_check(board, mark): # checks whether the mark provided has scored a win in any of the three ways to win on the board.
     return (board[0] == mark and board[1] == mark and board[2] == mark) or \
     (board[0] == board[3] == board[6] == mark) or \
     (board[2] == board[5] == board[8] == mark) or (board[6] == board[7] == board[8] == mark) or \

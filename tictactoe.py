@@ -8,7 +8,7 @@ def display_board(board):
 
 
 
-def player_marker():    # this method will choose the player's marker (X or O).
+def player_marker():    # this method will define the player's marker (X or O).
 
     '''
     OUTPUT = (PLAYER1 MARKER, PLAYER2 MARKER)

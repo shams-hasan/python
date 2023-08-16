@@ -1,13 +1,14 @@
 # Book Web-Scraping Project
-*Insert description*
+This is a web scraping project done on a book example website, which places book titles on each page into various star-rated categories such as one star, two star, three star, so on and so forth. 
 
 
 ## How It's Made:
-
+By utilizing the Python BeautifulSoup and Request libraries to extract and organize data, this simplified locating classes within the 
+website. The class that represented each book item was a 'product_pod' class, so we selected this class using a soup object to find every instance and found that there are twenty results for each page (so 20 books) - we then further inspected the HTML to peek at the star-rating of the book. I created two functions to place the book titles into a list of the rated category that they belong to. One function is made for scraping singular webpages, the other for a range of multiple webpages.
 **Tech used:** Python
 
 ## Lessons Learned:
-
+After making this project and having somewhat explored the concept of scraping, I can understand why people web-scrape various websites in their day-to-day life. Scraping is essential for not only extracting and locating data, but also organizing it.
 
 
 Code snippets using the function for individual pages, as well as the function for a range of pages:

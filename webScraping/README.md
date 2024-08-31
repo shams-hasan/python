@@ -1,7 +1,7 @@
 # Book Web-Scraping Project
 This is a web scraping project done on a book example website, which places book titles on each page into various star-rated categories such as one star, two star, three star, so on and so forth. 
 
-**See webScraping.ipynb file for source code!**
+**See webScraping.ipynb for source code!**
 
 ## How It's Made:
 By utilizing the Python BeautifulSoup and Request libraries to extract and organize data, this simplified locating classes within the 

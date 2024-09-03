@@ -1,5 +1,9 @@
-## Python repo of the following projects:
+## Python Repo
 
+### Projects:
 * Web Scraper
-
 * Tic-Tac-Toe
+
+
+### Other
+* Leetcode Practice

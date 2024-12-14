@@ -1,4 +1,4 @@
-# O(N^2)
+# O(N^2) SOLUTION
 
 def findSumsOfTarget(arr, target):
     for i in range(len(arr)):

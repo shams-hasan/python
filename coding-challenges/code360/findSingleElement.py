@@ -16,4 +16,4 @@ def getSingleElement(arr : List[int]) -> int:
             return item # return that element
     
 
-print(getSingleElement([2, 2, 1, 3, 9, 3, 9]))
+print(getSingleElement([2, 2, 1, 3, 9, 3, 9])) # 1

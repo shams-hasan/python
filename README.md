@@ -6,4 +6,4 @@
 
 
 ### Other
-* Leetcode Practice
+* Coding challenges on Codewars, code360, and Leetcode platforms

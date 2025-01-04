@@ -1,5 +1,4 @@
-## method 1 of solving first unique char in a string
-## used for loops & if/else statements
+## method 1: using for loops & if/else statements
 
 class Solution(object):
     def firstUniqChar(self, s):

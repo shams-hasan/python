@@ -1,1 +1,1 @@
-### [daily coding challenges from daily coding challenge](newsletter https://www.dailycodingproblem.com/)
+### daily coding challenges from [daily coding challenge newsletter](https://www.dailycodingproblem.com/)
